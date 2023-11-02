@@ -1,5 +1,4 @@
-
-Projets 42: 
+<hr>Projets 42 : 
 <div align="center">
 
 [![LIBFT](https://github.com/Qrshh/Qrshh/blob/main/Badges/libft.png)](https://github.com/Qrshh/42_Libft)
