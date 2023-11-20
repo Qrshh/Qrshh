@@ -6,5 +6,3 @@ Projets 42 :
 [![PRINTF](https://github.com/Qrshh/Qrshh/blob/main/Badges/printf.png)](https://github.com/Qrshh/42_Printf)
 
 <hr>
-
-
