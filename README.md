@@ -7,7 +7,7 @@
 
 
 <hr>
-Projets 42 : 
+Completed projects :
 <div align="center">
 
 [![LIBFT](https://github.com/Qrshh/Qrshh/blob/main/Badges/libft.png)](https://github.com/Qrshh/42_Libft)
