@@ -16,6 +16,6 @@ Completed projects :
 [![PIPEX](https://github.com/Qrshh/Qrshh/blob/main/Badges/pipexe.png)](https://github.com/Qrshh/42_Pipex)
 [![SO LONG](https://github.com/Qrshh/Qrshh/blob/main/Badges/so_longe.png)](https://github.com/Qrshh/42_So_Long)
 [![PUSH SWAP](https://github.com/Qrshh/Qrshh/blob/main/Badges/push_swape.png)](https://github.com/Qrshh/42_Push_Swap)
-[![PHILOSOPHERS](https://github.com/Qrshh/Qrshh/blob/main/Badges/phiosopherse.png)](https://github.com/Qrshh/42_Philosophers)
+[![PHILOSOPHERS](https://github.com/Qrshh/Qrshh/blob/main/Badges/philosopherse.png)](https://github.com/Qrshh/42_Philosophers)
 
 <hr>
