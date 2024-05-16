@@ -2,7 +2,7 @@
 <h6>🔔 Le Gif est nul a la fin</h6>
 
 <div align="center">
-![IMAGE](https://github.com/Qrshh/Qrshh/blob/main/img/popcat.gif)
+![IMAGE](https://github.com/Qrshh/Qrshh/blob/main/gif/popcat.gif)
   
 
 
