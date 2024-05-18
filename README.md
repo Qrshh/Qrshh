@@ -5,7 +5,7 @@
 
 ## Currents technicals skills
   <a href= "https://skillicons.dev">
-    <a img src="https://skillicons.dev/icons?i=c,html,css" />
+    <a img src="https://skillicons.dev/icons?i=c,html,css" >
   </a>
 
 
