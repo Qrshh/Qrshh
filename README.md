@@ -3,11 +3,11 @@
 <div align="center">
   
 
-<div align="center">
+<p align="center">
 <a href="https://skillicons.dev">
   <a img src="https://skillicons.dev/icons?i=c,html,css,java" />
   </a>
-</div>
+</p>
 
 
 <hr>
