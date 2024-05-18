@@ -1,13 +1,6 @@
 
 ![image](https://github.com/Qrshh/Qrshh/blob/main/Gif/1.gif)
 <div align="center">
-  
-
-## Currents technicals skills
-  <a href= "https://skillicons.dev">
-    <a img src="https://skillicons.dev/icons?i=c,html,css" >
-  </a>
-
 
 <hr>
 
