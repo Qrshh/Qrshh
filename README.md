@@ -3,6 +3,7 @@
 <div align="center">
   
 
+## Currents technicals skills
 <p align="center">
   <a href="https://skillicons.dev">
     <a img src="https://skillicons.dev/icons?i=c,html,css,java" />
