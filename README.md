@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1080" height="300" src="https://github.com/Qrshh/Qrshh/blob/main/Gif/1.gif">
+  <img width="1080" height="500" src="https://github.com/Qrshh/Qrshh/blob/main/Gif/1.gif">
 </p>
 
 <div align="center">
