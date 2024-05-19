@@ -1,5 +1,5 @@
 
-![image](https://github.com/Qrshh/Qrshh/blob/main/Gif/1.gif)
+<a href= https://github.com/Qrshh/Qrshh/blob/main/Gif/1.gif >
 <div align="center">
 
 <hr>
