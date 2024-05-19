@@ -1,5 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Qrshh/Qrshh/blob/main/Gif/1.gif">
+</p>
 
-[![image](https://github.com/Qrshh/Qrshh/blob/main/Gif/1.gif)
 <div align="center">
 
 <hr>
