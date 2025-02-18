@@ -1,3 +1,4 @@
+<div align=center>
 <hr>
 
 ## Completed 42 projects :
