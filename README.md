@@ -16,5 +16,6 @@
 [![PUSH SWAP](https://github.com/Qrshh/Qrshh/blob/main/Badges/push_swape.png)](https://github.com/Qrshh/42_Push_Swap)
 [![PHILOSOPHERS](https://github.com/Qrshh/Qrshh/blob/main/Badges/philosopherse.png)](https://github.com/Qrshh/42_Philosophers)
 [![MINISHELL](https://github.com/Qrshh/Qrshh/blob/main/Badges/minishelle.png)](https://github.com/Qrshh/42_Minishell)
+[![CPP](https://github.com/Qrshh/Qrshh/blob/main/Badges/cppe.png)](https://github.com/Qrshh/42_CPP)
 
 <hr>
