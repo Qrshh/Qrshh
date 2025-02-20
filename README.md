@@ -12,5 +12,6 @@
 [![PHILOSOPHERS](https://github.com/Qrshh/Qrshh/blob/main/Badges/philosopherse.png)](https://github.com/Qrshh/42_Philosophers)
 [![MINISHELL](https://github.com/Qrshh/Qrshh/blob/main/Badges/minishelle.png)](https://github.com/Qrshh/42_Minishell)
 [![CPP](https://github.com/Qrshh/Qrshh/blob/main/Badges/cppe.png)](https://github.com/Qrshh/42_CPP)
+[![CUB3D](https://github.com/Qrshh/Qrshh/blob/main/Badges/cub3de.png)](https://github.com/Qrshh/42_CUB3D)
 
 <hr>
