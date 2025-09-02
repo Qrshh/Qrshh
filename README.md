@@ -14,5 +14,6 @@
 [![CPP](https://github.com/Qrshh/Qrshh/blob/main/Badges/cppe.png)](https://github.com/Qrshh/42_CPP)
 [![CUB3D](https://github.com/Qrshh/Qrshh/blob/main/Badges/cub3de.png)](https://github.com/Qrshh/42_CUB3D)
 [![INCEPTION](https://github.com/Qrshh/Qrshh/blob/main/Badges/inceptione.png)](https://github.com/Qrshh/42_Inception)
+[![IRC](https://github.com/Qrshh/Qrshh/blob/main/Badges/ft_irce.png)]https://github.com/Qrshh/42_Irc)
 
 <hr>
