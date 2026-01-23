@@ -47,10 +47,6 @@ Linux • Bash • Git • Makefile • Networking basics
 [![TRANSCENDANCE](https://github.com/Qrshh/Qrshh/blob/main/Badges/trancendance_badge.png)](https://github.com/Qrshh/42_Transcendance)
 
 
-</div>
-
-> Low-level projects focused on **memory management**, **concurrency**,  
-> **processes**, **networking**, and **system architecture**.
 
 ---
 
