@@ -44,6 +44,8 @@ Linux • Bash • Git • Makefile • Networking basics
 [![CUB3D](https://github.com/Qrshh/Qrshh/blob/main/Badges/cub3de.png)](https://github.com/Qrshh/42_CUB3D)
 [![INCEPTION](https://github.com/Qrshh/Qrshh/blob/main/Badges/inceptione.png)](https://github.com/Qrshh/42_Inception)
 [![IRC](https://github.com/Qrshh/Qrshh/blob/main/Badges/ft_irce.png)](https://github.com/Qrshh/42_IRC)
+[![TRANSCENDANCE](https://github.com/Qrshh/Qrshh/blob/main/Badges/transcendance_badge.png)](https://github.com/Qrshh/42_Transcendance)
+
 
 </div>
 
