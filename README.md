@@ -63,10 +63,3 @@ Linux • Bash • Git • Makefile • Networking basics
 - Backend / Web development roles
 
 ---
-
-## 📫 Contact
-
-- GitHub: [@Qrshh](https://github.com/Qrshh)
-- Email: **adrienbesneux76@gmail.com**
-
----
