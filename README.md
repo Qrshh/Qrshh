@@ -1,33 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Adrien
-
-🎓 Student at **42 Le Havre**  
-💻 Backend & Web Developer | Systems & Cybersecurity enthusiast  
-
-I enjoy building **robust backend systems**, working close to the OS,  
-and designing clean, scalable web applications.
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-C • C++ • JavaScript • TypeScript • Python  
-
-### Backend
-Node.js • Fastify • SQLite • Docker  
-
-### Frontend
-Vue.js • Tailwind CSS  
-
-### Systems & Tools
-Linux • Bash • Git • Makefile • Networking basics  
-
----
-
 ## 🎓 42 Projects (Completed)
 
 <div align="center">
@@ -47,19 +19,3 @@ Linux • Bash • Git • Makefile • Networking basics
 [![TRANSCENDANCE](https://github.com/Qrshh/Qrshh/blob/main/Badges/trancendance_badge.png)](https://github.com/Qrshh/42_Transcendance)
 
 
-
----
-
-## 🚀 Personal Projects
-
-- **Cybersecurity learning**  
-  *Linux hardening, networking basics, TryHackMe labs, Pentesting*
-
----
-
-## 🎯 Currently Looking For
-
-- **Work-study position (Alternance)**
-- Backend / Web development roles
-
----
