@@ -1,21 +1,10 @@
-<div align="center">
-
-## 🎓 42 Projects (Completed)
-
-<div align="center">
-
-[![LIBFT](https://github.com/Qrshh/Qrshh/blob/main/Badges/libft.png)](https://github.com/Qrshh/42_Libft)
-[![PRINTF](https://github.com/Qrshh/Qrshh/blob/main/Badges/printf.png)](https://github.com/Qrshh/42_Printf)
-[![GET NEXT LINE](https://github.com/Qrshh/Qrshh/blob/main/Badges/get_next_linee.png)](https://github.com/Qrshh/42_Get_next_line)
-[![PIPEX](https://github.com/Qrshh/Qrshh/blob/main/Badges/pipexe.png)](https://github.com/Qrshh/42_Pipex)
-[![SO LONG](https://github.com/Qrshh/Qrshh/blob/main/Badges/so_longe.png)](https://github.com/Qrshh/42_So_Long)
-[![PUSH SWAP](https://github.com/Qrshh/Qrshh/blob/main/Badges/push_swape.png)](https://github.com/Qrshh/42_Push_Swap)
-[![PHILOSOPHERS](https://github.com/Qrshh/Qrshh/blob/main/Badges/philosopherse.png)](https://github.com/Qrshh/42_Philosophers)
-[![MINISHELL](https://github.com/Qrshh/Qrshh/blob/main/Badges/minishelle.png)](https://github.com/Qrshh/42_Minishell)
-[![CPP](https://github.com/Qrshh/Qrshh/blob/main/Badges/cppe.png)](https://github.com/Qrshh/42_CPP)
-[![CUB3D](https://github.com/Qrshh/Qrshh/blob/main/Badges/cub3de.png)](https://github.com/Qrshh/42_CUB3D)
-[![INCEPTION](https://github.com/Qrshh/Qrshh/blob/main/Badges/inceptione.png)](https://github.com/Qrshh/42_Inception)
-[![IRC](https://github.com/Qrshh/Qrshh/blob/main/Badges/ft_irce.png)](https://github.com/Qrshh/42_IRC)
-[![TRANSCENDANCE](https://github.com/Qrshh/Qrshh/blob/main/Badges/trancendance_badge.png)](https://github.com/Qrshh/42_Transcendance)
+# 💫 About Me:
+🔭 Student at 42 Le Havre<br>🌱 I’m currently learning Full Stack Development
 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Qrshh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Qrshh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qrshh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
