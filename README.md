@@ -22,7 +22,7 @@
 | Projet | Stack | Description |
 |--------|-------|-------------|
 | **ft_transcendence** | Vue.js, Fastify | Multiplayer Pong with real-time chat |
-| **Matcha** | React, NestJS, PostgreSQL | Dating app with geolocation |
+| **Matcha** | React, NestJS, PostgreSQL | Dating app with geolocation, real time chat |
 
 ---
 
